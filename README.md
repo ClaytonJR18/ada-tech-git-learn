@@ -12,3 +12,9 @@
 * comando git pull
 * comando git fetch
 
+# Tratando Branchs
+
+* git branch >nome<
+
+* git checkout >nome<
+
