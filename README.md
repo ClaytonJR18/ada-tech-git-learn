@@ -18,3 +18,8 @@
 
 * git checkout >nome<
 
+* git branch , exibe todas as branchs existentes
+
+# Trabalhando com Merges nas Branchs
+
+* git merge >nome da branch< 
