@@ -8,4 +8,7 @@
 
 ## git log e git restore
 
+* comando git push
+* comando git pull
+* comando git fetch
 
