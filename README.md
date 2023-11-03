@@ -7,3 +7,5 @@
 ## Curso do processo seletivo da Ada Tech em Data Science
 
 ## git log e git restore
+
+* comando git push 
